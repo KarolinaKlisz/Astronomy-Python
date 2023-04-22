@@ -9,4 +9,5 @@ We can ask questions about:
 - phases of the moon
 - planet transits
 - planet positions
+
 This assistant answers above questions. 
