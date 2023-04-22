@@ -2,6 +2,7 @@ This project is kind of assistant in astronomy. I used the following libraries:
 - speech_recognition
 - pyttsx3
 - ephem
+
 We can ask questions about:
 - future and past sunrises
 - constellations
